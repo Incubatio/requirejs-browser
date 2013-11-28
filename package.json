@@ -1,0 +1,21 @@
+{
+    "author": "James Burke",
+    "name": "requirejs-browser",
+    "description": "requirejs npm package for browsers",
+    "version": "2.1.9",
+    "homepage": "http://requirejs.org/",
+    "licenses": [
+      {
+        "type": "BSD",
+        "url": "https://raw.github.com/jrburke/requirejs/master/LICENSE"
+      }
+    ],
+    "repository": {
+      "type":"git",
+      "url": "http://github.com/incubatio/requirejs-browser.git"
+    },
+    "volo": {
+        "url": "https://raw.github.com/jrburke/requirejs/{version}/require.js"
+    },
+    "main": "require.js"
+}
